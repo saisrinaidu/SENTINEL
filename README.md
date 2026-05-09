@@ -1,20 +1,21 @@
 # SENTINEL
 
-SENTINEL is a Machine Learning and Deep Learning based project developed for anomaly detection and intelligent monitoring.
+SENTINEL is a Deep Learning-based satellite image classification system designed for intelligent terrain analysis and monitoring.
 
-## 🚀 Features
+## Terrain Categories
+Urban Land | Agricultural Land | Forest Region | Range Area
 
-* Anomaly Detection
-* Image Processing
-* Intelligent Classification
-* Monitoring System
+## Features
+Satellite Image Classification | Advanced CNN Model | Real-time Terrain Analysis | Interactive Monitoring Dashboard
 
-## 🛠 Technologies Used
+## Tech Stack
+Python | TensorFlow/Keras | Flask | React (Vite) | Recharts
 
-* Python
-* OpenCV
-* TensorFlow / Keras
-* NumPy
-* Pandas
+## Model
+Enhanced CNN with Batch Normalization, Data Augmentation, and Early Stopping.
 
+## Interface
+Professional dark-themed tactical dashboard with interactive visual components.
 
+## Author
+Sai Sri Naidu
